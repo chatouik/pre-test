@@ -35,7 +35,7 @@ public class CustomerAccountTest {
         customerAccount = new CustomerAccount();
         rule = new CustomerAccountRule();
         if (customerAccount == null || rule == null) {
-            throw new Exception("Setup failed");
+            throw new Exception("Setup failed !");
         }
     }
     

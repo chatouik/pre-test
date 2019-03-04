@@ -17,10 +17,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/priceminister/account/CustomerAccountTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+            <state relative-caret-position="255">
+              <caret line="37" column="47" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
               <folding>
-                <element signature="e#1284#1285#0" expanded="true" />
+                <element signature="e#1286#1287#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,6 +119,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -155,6 +158,7 @@
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -183,41 +187,6 @@
               <item name="pretest-tdd" type="b2602c69:ProjectViewProjectNode" />
               <item name="pre-test-master" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="pretest-tdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pre-test-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pretest-tdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pre-test-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pretest-tdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pre-test-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pretest-tdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pre-test-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pretest-tdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pre-test-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
-              <item name="implementation" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -226,12 +195,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551700487943" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551701095647" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Junit4" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -346,12 +315,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CustomerAccountTest_testWithdrawAndReportBalanceIllegalBalance - 2019.03.03 at 15h 52m 49s.xml">
-      <configuration name="CustomerAccountTest.testWithdrawAndReportBalanceIllegalBalance" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CustomerAccountTest - 2019.03.03 at 15h 53m 42s.xml">
-      <configuration name="CustomerAccountTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CustomerAccountTest - 2019.03.03 at 15h 54m 30s.xml">
       <configuration name="CustomerAccountTest" configurationId="JUnit" />
     </history-entry>
@@ -376,12 +339,18 @@
     <history-entry file="CustomerAccountTest - 2019.03.04 at 12h 53m 34s.xml">
       <configuration name="CustomerAccountTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CustomerAccountTest - 2019.03.04 at 12h 53m 58s.xml">
+      <configuration name="CustomerAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerAccountTest - 2019.03.04 at 12h 54m 06s.xml">
+      <configuration name="CustomerAccountTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19731544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19731544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -390,7 +359,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36685553" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36685553" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4546742" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -543,10 +512,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/priceminister/account/CustomerAccountTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+        <state relative-caret-position="255">
+          <caret line="37" column="47" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
           <folding>
-            <element signature="e#1284#1285#0" expanded="true" />
+            <element signature="e#1286#1287#0" expanded="true" />
           </folding>
         </state>
       </provider>
